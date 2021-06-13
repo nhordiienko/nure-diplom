@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nure-diplom/static/css/main.6a050bf0.chunk.css",
-    "main.js": "/nure-diplom/static/js/main.0e7fc98a.chunk.js",
-    "main.js.map": "/nure-diplom/static/js/main.0e7fc98a.chunk.js.map",
+    "main.js": "/nure-diplom/static/js/main.f65d9fab.chunk.js",
+    "main.js.map": "/nure-diplom/static/js/main.f65d9fab.chunk.js.map",
     "runtime-main.js": "/nure-diplom/static/js/runtime-main.e1e2a450.js",
     "runtime-main.js.map": "/nure-diplom/static/js/runtime-main.e1e2a450.js.map",
-    "static/js/2.09541ac4.chunk.js": "/nure-diplom/static/js/2.09541ac4.chunk.js",
-    "static/js/2.09541ac4.chunk.js.map": "/nure-diplom/static/js/2.09541ac4.chunk.js.map",
+    "static/js/2.f38cb64d.chunk.js": "/nure-diplom/static/js/2.f38cb64d.chunk.js",
+    "static/js/2.f38cb64d.chunk.js.map": "/nure-diplom/static/js/2.f38cb64d.chunk.js.map",
     "index.html": "/nure-diplom/index.html",
     "static/css/main.6a050bf0.chunk.css.map": "/nure-diplom/static/css/main.6a050bf0.chunk.css.map",
-    "static/js/2.09541ac4.chunk.js.LICENSE.txt": "/nure-diplom/static/js/2.09541ac4.chunk.js.LICENSE.txt"
+    "static/js/2.f38cb64d.chunk.js.LICENSE.txt": "/nure-diplom/static/js/2.f38cb64d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1e2a450.js",
-    "static/js/2.09541ac4.chunk.js",
+    "static/js/2.f38cb64d.chunk.js",
     "static/css/main.6a050bf0.chunk.css",
-    "static/js/main.0e7fc98a.chunk.js"
+    "static/js/main.f65d9fab.chunk.js"
   ]
 }
